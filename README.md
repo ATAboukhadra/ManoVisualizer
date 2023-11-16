@@ -12,3 +12,4 @@ You can easily run the script by python3 mano_slider.py 45.
 
 Requirements are MANO and chumpy libraries and that MANO models are places in ../mano_v1_2/models
 
+![image](image.png)
