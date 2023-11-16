@@ -8,3 +8,7 @@ The first 3 are for global rotation, the next Num_comps parameters which what yo
 
 You are also provided with 10 shape parameters and 3 translation parameters
 
+You can easily run the script by python3 mano_slider.py 45.
+
+Requirements are MANO and chumpy libraries and that MANO models are places in ../mano_v1_2/models
+
